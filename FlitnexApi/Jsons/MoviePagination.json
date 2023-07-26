@@ -1,0 +1,25 @@
+﻿{
+  "items":{
+    "id": 1,
+    "title": "Interstellar",
+    "description": "Interstellar description",
+    "genres": [
+      {"id": 1, "name":"comedy"},
+      {"id": 2, "name": "action"},
+      {"id": 3, "name": "thrillers"}
+    ],
+    "cast": [
+      {
+        "id": 1,
+        "name": "Jessica Anderson",
+        "role": "Porn star"
+      }
+    ],
+    "video_source": "https://some.mp4"
+  },
+  "pagination": {
+    "per_page": 20,
+    "page": 2,
+    "total_count": 60
+  }
+}

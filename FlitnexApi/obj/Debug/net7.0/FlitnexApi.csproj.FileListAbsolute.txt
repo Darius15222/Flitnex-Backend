@@ -1,0 +1,140 @@
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Jsons\Movie.json
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Jsons\MoviePagination.json
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Jsons\Movies.json
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\FlitnexApi.exe
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\FlitnexApi.deps.json
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\FlitnexApi.runtimeconfig.json
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\FlitnexApi.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\FlitnexApi.pdb
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Darius\Desktop\FlitnexApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.AssemblyInfo.cs
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\staticwebassets\msbuild.FlitnexApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\staticwebassets\msbuild.build.FlitnexApi.props
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FlitnexApi.props
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FlitnexApi.props
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\scopedcss\bundle\FlitnexApi.styles.css
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.csproj.CopyComplete
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.dll
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\refint\FlitnexApi.dll
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.pdb
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\FlitnexApi.genruntimeconfig.cache
+C:\Users\Darius\Desktop\FlitnexApi\obj\Debug\net7.0\ref\FlitnexApi.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Jsons\Movie.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Jsons\MoviePagination.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Jsons\Movies.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\FlitnexApi.exe
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\FlitnexApi.deps.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\FlitnexApi.runtimeconfig.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\FlitnexApi.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\FlitnexApi.pdb
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.csproj.AssemblyReference.cache
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.AssemblyInfoInputs.cache
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.AssemblyInfo.cs
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.csproj.CoreCompileInputs.cache
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\staticwebassets\msbuild.FlitnexApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\staticwebassets\msbuild.build.FlitnexApi.props
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FlitnexApi.props
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FlitnexApi.props
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\scopedcss\bundle\FlitnexApi.styles.css
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.csproj.CopyComplete
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\refint\FlitnexApi.dll
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.pdb
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\FlitnexApi.genruntimeconfig.cache
+C:\Users\Darius\Desktop\Projects\Flitnex Backend\FlitnexApi\obj\Debug\net7.0\ref\FlitnexApi.dll

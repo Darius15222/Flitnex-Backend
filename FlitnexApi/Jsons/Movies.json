@@ -1,0 +1,2295 @@
+[
+    {
+        "id": 1,
+        "title": "Les dangers de l'alcoolisme",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Bradford Smitham"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Sophie Lockman"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Dean Conroy-Heidenreich"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Toy Will"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Merritt Kuhlman"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Amy Pagac"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Douglas Stoltenberg"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 2,
+        "title": "Rip Leaving Sleepy Hollow",
+        "description": "A series of short black and white films from director William K.L. Dickson which chronicle the adventures of Rip Van Winkle.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Hilbert Rath"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 3,
+        "title": "Awakening of Rip",
+        "description": "A series of short black and white films from director William K.L. Dickson which chronicle the adventures of Rip Van Winkle.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Frida Rippin"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Arlo Schmeler"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Mike Zieme"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Ines McClure"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Raul Rodriguez"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Justice Gusikowski"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Richard Goldner"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Marquis Crooks"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Willa Connelly"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 4,
+        "title": "The Last Days of Pompeii",
+        "description": "Vesuvius erupts and people escape from a room as the ceiling falls.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Mafalda Larson"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Patricia Frami-Jakubowski"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Amani Wilderman"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Chelsie Effertz"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Adelbert Zieme"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Lillie Ledner-Robel"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 5,
+        "title": "Rip's Toast",
+        "description": "\"Here the celebrated actor Joseph Jefferson is shown giving his famous toast. Mr. Jefferson's features distinctly show on this picture that by watching the motion of his lips one could almost make out the words he is speaking: 'Here's to your health and your family's; may they live long and prosper.'\"",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Clifton Wintheiser"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Kayli Beahan"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Drake Dickinson"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Aurelie Bahringer"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Olga Greenholt"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Kathleen Gorczany-Flatley"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 6,
+        "title": "Bombardment of Mafeking",
+        "description": "Soldiers play cards and jeer as shells burst around them.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            },
+            {
+                "id": 3,
+                "name": "War"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Kendra Keeling-Harvey"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Raquel Gerlach"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Amparo Durgan"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Yvonne Kautzer"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Fleta Miller"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Winona Johnson"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Royal Cummings"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Preston Daniel"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Trinity Anderson"
+            },
+            {
+                "id": 10,
+                "role": "Actor",
+                "name": "Boyd D'Amore"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 7,
+        "title": "The Corsican Brothers",
+        "description": "The ghost of a man's twin shows him a vision of how he was killed in a duel.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Jovani Luettgen"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Mazie Ortiz"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Leonora Powlowski"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Missouri Skiles"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Wilfred Wolf"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Margot Schaefer"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Bradly Torp"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Ebony Hamill"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 8,
+        "title": "Cendrillon",
+        "description": "A fairy godmother magically turns Cinderella's rags to a beautiful dress, and a pumpkin into a coach. Cinderella goes to the ball, where she meets the Prince - but will she remember to leave before the magic runs out?",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            },
+            {
+                "id": 3,
+                "name": "Family"
+            },
+            {
+                "id": 4,
+                "name": "Fantasy"
+            },
+            {
+                "id": 5,
+                "name": "Romance"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Deanna Barrows"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 9,
+        "title": "King John",
+        "description": "King John does whatever it takes to keep himself on the throne of England, making enemies of the pope, France, and his nephew along the way.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Freddy Kertzmann"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Ivah Boyer"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Laila Bogan"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Russell Windler"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 10,
+        "title": "Exit of Rip and the Dwarf",
+        "description": "A series of short black and white films from director William K.L. Dickson which chronicle the adventures of Rip Van Winkle.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Frederik Koelpin"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 11,
+        "title": "O Rapto de Uma Actriz",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Cordell Bashirian"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Lazaro Volkman"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Eugene Dickinson"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Dwight Bogisich"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Cyril Schowalter"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Leta Moen"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Paxton Okuneva"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Evalyn Bergstrom"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Freda Kassulke"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 12,
+        "title": "Falsely Accused!",
+        "description": "A wealthy old alchemist and inventor has just perfected a motion picture camera with which he hopes to revolutionize the art of animated photography, and our story opens with the old man in his library studying out the plans of his invention. A telegram calls him hurriedly away. He replaces the papers in his safe, but, in his haste, neglects to lock it, which oversight is pardonable, as his wife and daughter are in the room at the time. The daughter's hand is sought in marriage by a worthy young man, whose attentions are looked upon with favor by herself and her parents. But he has a rival in the person of a contemptible villain, whose motives are purely mercenary, reasoning that this new invention will greatly enhance the father's already ample wealth. He has met with little or no encouragement from the girl, but is determined to have her at any hazard, so calling at the house shortly after the old man departs, is ushered into the library by the maid, who goes to inform her mistress of his arrival. While left alone in the room he espies the door of the safe ajar. Making sure that he will suffer no interruption, he goes through the safe and secures the coveted plans, secreting them in his pocket just as the girl enters. He renews his protestations, of love, but is again repulsed, and when he becomes insultingly persistent, receives a blow in the face and is ordered from the house by the incensed girl. He goes, but swears vengeance. The father now returns and goes to his laboratory to make a final test of his invention. Threading the camera with photographic film, he starts the motor, when the villain enters to lay his proposal for the girl's hand before him. It is, of course, rejected, and the villain threatens the old man, flaunting before his very face the cherished designs, of his invention. The old man, white with rage, leaps at the throat of the villain, forgetting about the camera, which is whirling through its mechanism yard after yard of negative film. During this scene the young girl is in the library relating to her fiancé her experience with the odious suitor, and upon leaving he is assured that there is nothing to fear in that direction. She then goes to the laboratory, and the horrible sight that greets her freezes the blood in her veins, for there upon the floor lays her dear old father cold in death. Bending over his lifeless body she picks up a dagger papercutter which the murderer, whoever he be, had taken from her father's desk. There she kneels beside the prostrate form transfixed with horror, with this poniard tightly clutched in her nerveless hand, when the villain enters with, others and boldly accuses her of parricide. Appearances are unfortunately against her, so she is led away to prison. Circumstantial evidence is so strong that the world believes her guilty and all desert her except her poor old mother and her faithful lover, who visits and consoles her in her prison cell, vowing he will leave no stone unturned to run to earth the real culprit. Visiting the laboratory, the young man makes a startling discovery. While rummaging through the old alchemist's effects, his attention is drawn towards the new camera and although having but a vague knowledge of the art of animated photography, he has, through his association with the old inventor, a limited idea of its importance, and some little talent in chemistry, so he examines the camera and finds that one of the film boxes contains film. This he take into the \"dark room\" and develops a short strip sufficiently to see a faint outline of a scene. \"My God! Just as I thought!\" He hurries with the box of film to the old mans assistant, who develops it and prints a positive. Armed with this convincing evidence, he rushes into the courtroom, and with the permission of the presiding judge, sets up a moving picture machine and projects the result of his discovery upon the wall. The scene here pictured completely exonerates the young girl by showing the actual murder of the old man by the villain, who, during this exposition tries to bolt, but his escape is cut off, and he is taken into custody for the- heinous crime he committed. -- The Moving Picture World, January 18, 1908",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Kristina Powlowski"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Howard Marks"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Beaulah Daniel-Larson"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Deon Hodkiewicz"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Rosamond Blick"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Gust Kassulke"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Eunice Anderson-Swaniawski"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Paul Cole"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Amelia Shields"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 13,
+        "title": "Where the Breakers Roar",
+        "description": "An early Biograph short in which two separate sequences of events collide and the leading man must save his lady from the villain. The first storyline involves a group of young adult beach-goers, particularly focusing on one couple in love. The other storyline involves a criminal who escapes from two policemen. The con eventually makes his way to the beach where the other group is frolicking. He takes the leading lady hostage out in a rowboat, and it is up to her man to save her.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 14,
+        "title": "La belle au bois dormant",
+        "description": "The baptism of the Princess. The fatal spinning-wheel. The Prince is smitten with the Princess. The three cross-roads. The haunted inn. Fairy palace. The mysterious oak. The fairy grotto. The Princess awakes.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Fantasy"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Joey Koch"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Francesco Mitchell"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 15,
+        "title": "The Deception",
+        "description": "Of all the agonies of life, that which is most harrowing is the conviction that we have been deceived where we placed all the trust of love, and this is most apparent to Harry Colton, a young artist in the action of his wife, Mabel. It has been an arduous struggle for fame with poor Harry and when poverty's wolf is howling at their threshold he resolves to go out and seek employment which may not be as congenial as art, but will prove decidedly more remunerative. But his wife will not allow it. She pleads with him to hope on, work at his painting while she goes to seek a position as teacher of piano at the Conservatory, His ambitious spirit is compelling and he allows her to go. Piano lessons, indeed. The brave girl gets a job in the laundry at the washtubs. However, she has grit and with her first day's pay, one dollar, she drags her sore body homeward, stopping on the way to buy a few provisions. Dauntless, she goes the next day to give \"piano lessons\" at the washboard, and while away an art collector calls on Colton and purchases his masterpiece tor a goodly sum, with a promise or more purchases to come. His joy is boundless and he cannot wait until evening to tell Mabel the good news, so he rushes to the Conservatory, and, of course, does not find her. She has never been there: they don't know her. He stands for a moment paralyzed. \"My God! She has been deceiving me. I shall cast her off forever.\" And rushing home he is writing a farewell note, when the door opens and poor Mabel is carried in a sorry sight to behold. She had fallen into one of the tubs of boiling suds and her arms are scalded from hands to shoulders. Harry, when he realizes the awful sacrifice of the girl, and all for him, is about to gather her in his arms, but she cries with pain, and he can only kiss the tip of her finger. The subject is a beautiful story of a woman's self-sacrificing love.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Foster Ledner"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Dominic Sawayn"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Santos McKenzie"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Alexandre Swaniawski"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Branson Lindgren"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Beulah Leuschke"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Jarret Glover"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 16,
+        "title": "The Adventurous Voyage of 'The Arctic'",
+        "description": "12 scenes: Cabin; deck; icebound; icefield; baffled; Jack Frost; foot of pole; compass; cave; foot of pole; top of pole.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Germaine Davis"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Mustafa Weissnat"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Agustin Price"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Solon Murazik"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Jeff Corkery"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Kurtis Fisher"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Braxton Hand"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Savanna Ortiz"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Amelia Jakubowski"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 17,
+        "title": "The Maniac Cook",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 18,
+        "title": "Mordet paa Fyn",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Crime"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Thomas Jacobi"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 19,
+        "title": "The Lonely Villa",
+        "description": "A gang of thieves lure a man out of his home so that they can rob it and threaten his wife and children. The family barricade themselves in an interior room, but the criminals are well-equipped for breaking in. When the father finds out what is happening, he must race against time to get back home.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Crime"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Rogelio Labadie"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Hertha Hauck"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Rosanna Cruickshank"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Joaquin O'Conner"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Arden Armstrong"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 20,
+        "title": "A Father's Mistake",
+        "description": "A rich man rejects his son's IOU and blames him when he is robbed.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Crime"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Leone Walker"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Ulises Ryan"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Ernie McKenzie"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Walter Pacocha"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Keenan Gulgowski"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "General Reinger"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Esta Bradtke"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 21,
+        "title": "In Little Italy",
+        "description": "Marie has two suitors. She accepts Victor and rejects Tony, who stabs Victor in a fit of jealousy. When he learns that Victor is still alive, he breaks into the room in Marie's house where Victor is convalescing and attacks him again. He is threatening to attack Marie when lawmen burst in and arrest him.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Casandra MacGyver"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Edmund Huel-Koss"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Stephany Dibbert"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Nathaniel Flatley"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Shane Abernathy"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Jerel Sawayn"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Daisha Romaguera"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Gunnar Parker"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Dorian Morissette"
+            },
+            {
+                "id": 10,
+                "role": "Actor",
+                "name": "Nannie Toy"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 22,
+        "title": "El ciego de la aldea",
+        "description": "A blind man walks through the villages in the company of the girl who acts as a guide. But some kidnappers take a lady to a hovel and the girl sees everything.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Crime"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Alexandrine Koelpin"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Urban Balistreri"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Gaetano Schamberger"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Lucile Dare"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Gerardo Thompson"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Lorenza Keeling"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 23,
+        "title": "Robbery Under Arms",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Audie Barton"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Amiya Sipes"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 24,
+        "title": "Oliver Twist",
+        "description": "An orphan named Oliver Twist meets a pickpocket on the streets of London. From there, he joins a household of boys who are trained to steal for their master.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Zelda Miller"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 25,
+        "title": "Histoire d'un crime",
+        "description": "A burglar is arrested for a murder. He is condemned to death. Before his execution the murderer dreams of his past, of how he was a bank clerk, then turned to crime. The criminal is then taken out of his cell, and a moment later is executed.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Crime"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Thurman Upton"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Garrison Beahan"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Kendra Sauer"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Ludie Stanton"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Felipa Adams"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 26,
+        "title": "Soldiers of the Cross",
+        "description": "The plot outlined the story of the early Christian martyrs with a compendium of horrors guaranteed to jolt audiences into an awareness of terrible suffering for the sake of Christianity. Contained maulings at the Colosseum, crucifixions, beheadings, savage hackings and burnings at the stake, burnings in the limepit, the spectacle of human torches in Nero's garden. Overall \"soul stirring stories of the martyrs, illustrated by the most beautiful living pictures by kinematograph and limelight and never before witnessed in this or any other country.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Biography"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 27,
+        "title": "The Anarchist's Sweetheart",
+        "description": "A girl uses her arm to bar the door against soldiers seeking her lover.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Madelyn Schoen"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Leila Prosacco"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 28,
+        "title": "Over the Hill to the Poorhouse",
+        "description": "The mother of a large family is abandoned by her children and faces consignment to the poorhouse. But one of her offspring, the one no one had faith in, returns to rescue her.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Christop Grant"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Destini Runte"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Rosalind Nitzsche"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Margaretta White"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Jaqueline Greenholt"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Hoyt Casper-Osinski"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Camryn Pouros"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 29,
+        "title": "The Planter's Wife",
+        "description": "John Holland, a planter in a small way, is devotedly attached to his wife and infant child. The wife wearies of the monotonous grind of farm life and is easy prey of a contemptible villain, in the person of Tom Roland, the ubiquitous \"other man,\" fate ordains it so. The wife's sister is an innocent, good-natured tomboy girl, who never for a moment dreamed that her sister's low spirits were due to anything else than ill-health; no more did John. He tries his best to cheer his wife, and as he bids her and the baby a fond adieu in the morning on his departure for the fields, he begs her to be hopeful, that better conditions are in store. Scarcely has he crossed the threshold when Roland appears at the window. This decides her; so taking her wedding ring from her finger and leaving a note of farewell, she elopes with the serpent. At that moment the sister enters, sees the note and determines to save her at any cost. Donning her riding bloomers, and armed with a revolver, she leaps on a horse and dashes wildly after them, they having escaped in a phaeton. On, on they go at breakneck speed, both holding the distance between them, until the harness breaks on the horse of the elopers and they resort to a rowboat to get across the river. Down comes the sister, and leaping from her horse, dashes to the landing, and with the aid of her gun enlists the services of the old boatman to row in pursuit. Masking her face, that her identity will be unknown, she fires at the fleeing couple, causing them to heave to. Coming abreast, and flourishing the gun, she compels Roland to leap overboard and swim off. Then she commands the wife to board her boat, and at the landing, to return home. Here she makes herself known, and in a struggle the wife gets possession of the gun, when in rushes Roland and seizing the sister is choking her, when kin asserts itself in the wife and she sends a bullet crashing through Roland's arm, who at the point of the gun is driven from the place. The wife, realizing her folly, as John enters throws herself in his arms, he being in total ignorance of her experience and narrow escape. Once more, and for all time, peace reigns in the little home, thanks to Tomboy Nellie.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Action"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Louie Macejkovic"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Lavon Schaden"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Una Pouros-Boehm"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Pete Turcotte"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Lauriane Blick"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Chet Nader"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Neva Steuber"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 30,
+        "title": "Uncle Tom's Cabin",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Jazmyne Franey"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Isobel Heaney"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 31,
+        "title": "Fellow Clerks",
+        "description": "A farmer's daughter saves a bank clerk from a false charge of theft.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Crime"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Rosalia Roberts"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Connie Franey-Barrows"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Suzanne Stark"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Hilma Smitham"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Dock Ferry"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Adonis Monahan"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Danika Blick-Feil"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Mylene O'Reilly"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Irma Mohr"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 32,
+        "title": "One Touch of Nature",
+        "description": "Policeman John Murray is the proud father of a little girl and the happy husband of a dutiful wife. Both father's and mother's whole life is centered in their little one, and the little family are as happy as can be until death tears the baby from them. As the child's soul leaves its body, so the poor heart-broken mother's reason leaves her. What an awful blow to Murray. The loss of his child was indeed hard to bear, but his dear wife hurled into a living death was worse. A trained nurse must be her constant companion, and the poor woman spent her time fondling the dolls and playthings of her lost one. Murray's beat lay in the tenderloin section of the city, and many curious characters came under his notice. In the cellar under a junk shop there lived, or rather existed, a Sicilian couple of the very lowest type, who eked an existence by begging and theft. A little orphan girl fell into their keeping and they forced her to beg on the street for them, beating her into submission if she refused, which the child's proud spirit inclined her to do. Out in the snow storm, thinly clad, the poor child was made to stand at the stage doors of the theaters or in front of saloons to work upon the sympathy of the generous-hearted habitués. She was always accompanied by the Sicilian woman, who took good care that she didn't escape. Murray, on his rounds, runs into them and his suspicions are aroused, so he follows them and enters their hovel just in time to see the poor creature receiving a frightful beating. With a terrific blow he sends the man reeling to the floor and hurling the woman on top of him he seizes the child in his arms. At this moment a couple of his squad, in answer to his whistle, enter and take the Sicilians in charge. An idea dawns on him. He takes the little one home and presents her to his poor demented wife. The presence of the child at once restores her reason, so the clouds of sorrow are dissipated and happiness reigns. The picture presents a moral showing the singular working of God's justice in taking to Himself an unsullied soul that another might be saved.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Glen Botsford"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Judd Kub"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Phyllis Windler"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Austin Schultz"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Lambert Borer"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 33,
+        "title": "An Awful Moment",
+        "description": "As a judge passes sentence on a man, a gypsy woman in the audience vehemently protests, and she has to be physically removed from the courtroom. Soon afterwards, the judge returns home, and enjoys some time with his wife and child. But all the while, the gypsy woman is watching him closely, and is plotting a cruel revenge.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Natalia Cummings"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Avis Wunsch"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Santos Price"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Jaylon White"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Jena Connelly-Bauch"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Arnold Bartell"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 34,
+        "title": "The Faded Lilies",
+        "description": "A disfigured violinist mistakes a token of appreciation for a love bouquet. When he realizes his mistake, he loses his mind.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Thomas Kris"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Katrine Nikolaus"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Pietro Yost"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Ima Braun"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Miles Windler"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Joany Morissette"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Vicente West"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 35,
+        "title": "The Prussian Spy",
+        "description": "Lady Florence hides her lover, a Prussian spy, from the French troops who are hunting for him. One of her other suitors, a French officer, discovers the hiding place and threatens to kill the spy.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Jordon Leuschke"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Morris Murray"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Selmer Auer"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Devan Johnson"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Cesar Block"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Kamren Prosacco"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Frederick Cruickshank"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Candice O'Conner"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Effie Barton"
+            },
+            {
+                "id": 10,
+                "role": "Actor",
+                "name": "Lucas Hickle"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 36,
+        "title": "Testamentet",
+        "description": "A dramatic story showing how an unfaithful guardian steals the will and property of his dead friend and tries to marry his ward, but who is discovered and meets his just reward in a tragic manner.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Terrell Kuhn"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Connie Wiegand"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Gerhard Hodkiewicz-Yundt"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Alexie Murazik"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Glenna Simonis"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Vena Lubowitz"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Vaughn Luettgen"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Florine Schroeder-Jaskolski"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Dwight Kautzer"
+            },
+            {
+                "id": 10,
+                "role": "Actor",
+                "name": "Clement Klocko"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 37,
+        "title": "Fire!",
+        "description": "Firefighters ring for help, and here comes the ladder cart; they hitch a horse to it. A second horse-drawn truck joins the first, and they head down the street to a house fire. Inside a man sleeps, he awakes amidst flames and throws himself back on the bed. In comes a firefighter, hosing down the blaze. He carries out the victim, down a ladder to safety. Other firefighters enter the house to save belongings, and out comes one with a baby. The saved man rejoices, but it's not over yet. Another resident appears upstairs. He jumps.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Action"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 38,
+        "title": "The Curse of Money",
+        "description": "An heir wastes his inheritance and is saved from suicide by the Salvation Army.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Loyce Mraz"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Lila Zulauf"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Demarco Muller"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 39,
+        "title": "Confidence",
+        "description": "A beautiful romance of a girl from the Golden West. Confidence is the flower grown from the seed of true friendship, watered by the tears of adversity, and often assailed by the blight of calumny. For as Shakespeare says', \"be thou as chaste as ice, as pure as snow, thou shalt not escape calumny.\" So it was with little Nellie Burton, the orphan girl of the rancho, who budding into womanhood, realizes her position and appreciates the low brutal character of the habitués of the Dive, even discerning the true nature of her fancied sweetheart, Jim Colt, who was to say the least an unconscionable villain. Tiring of her present environments she decides to leave the place seek a nobler and higher life. To this end she makes her way eastward and applies for a position as nurse at a New York hospital, and we next find her engaged in that work of mercy \"ministering to the sick.\" Her mild manners and pure nature impress the head surgeon, a man of eminence in his profession, to such an extent that he finds himself deeply in love with this poor self-sacrificing girl. He proposes marriage, which she at first mildly declines, but he at length persuades her, and they are married. However, there must come a cloud, and this is in the shape of her girlhood sweetheart, Colt, who has migrated East, and living on his wits. He runs across Nellie in the company with her husband as she enters her own home. The low conniving nature at once asserts itself and he plans a scheme of blackmail, using as capital her pure innocent love letters. Waiting a favorable opportunity, Jim Colt \"visits'' her and with a threat of showing these letters to her husband he extorts money from her. This gone he comes for more, and as she has no ready cash he takes her jewels. The money raised on these goes the same way, so he calls to make another demand. This the poor helpless girl finds unable to meet, and during their argument the surgeon enters. Colt then hands the missives over to the husband who, taking the packet throws them into the tire and has Colt forcibly ejected from the place, with the positive injunction never to return.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Rusty Aufderhar"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Frank Lang"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Estelle Dach"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Aditya Lowe"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Francesca Hermiston"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Elza Fadel"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Miguel Huels"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Landen Gutmann"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Aric Vandervort"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 40,
+        "title": "The Salvation Army Lass",
+        "description": "Mary Wilson, a neglected child of the slums, falls in with Bob Walton, a tough denizen of the lower east side, and loves him with a pure, honest affection that his low nature cannot appreciate. He forces her to enter a saloon where she is insulted by Harry Brown, which is resented by Bob. They quarrel, come to blows, and Brown draws a gun as Bob closes in on him, forcing the muzzle against Brown's breast as it explodes, thereby causing him to shoot himself, dying almost instantly. But Walton is arrested and sentenced to one year in Sing Sing. The morning papers appear with an account of the affair and as Mary's name is put into prominence in the account she is grievously hounded by misfortune, evicted from her boarding place and also discharged from the factory where she works, she falls into the hands of a professional woman shoplifter, who is anxious to enlist her services as an accomplice. The girl soon discovers the character of her would-be benefactor, and rushes from the place, running into the arms of the Salvation Army, which offers her peace and rest. Taking her to the barracks she is enrolled a soldier, and one soul is lifted from the darkness into the light. With the Army, Mary has won the affection of all for her humility and goodness. Working as she does, in the slums a year later she comes face to face with Bob, who has just been released from prison, having served his time. He is on the point of becoming a party to a burglary, but she prevents, even with almost fatal results for herself. But she will not give him up, and after a series of touching episodes finally moves him to appreciate the strength of that holy invitation \"Come unto me all ye that labor and are heavy laden and I will give thee rest.\" so in the final scene we see Bob kneel in devout humility to receive God's healing grace from His ministers, A strong point in this subject is that it depicts real life and real people.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Jimmy Kuvalis"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Quentin Swaniawski"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Stefanie Spencer"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Harmon Aufderhar"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Hans Rice"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Stephon Adams"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Roselyn Kuvalis"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Zion Sauer"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 41,
+        "title": "His Lost Love",
+        "description": "Mary marries James, after jilting his brother Luke. Mary's sister arrives and soon James is professing his love to her. The shock of this kills Mary and leaves her newborn daughter motherless. Luke offers to raise the daughter. Years later James returns and tries to convince his daughter to leave Luke, the only father she's ever known, and come with him.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 42,
+        "title": "Mesalliancen",
+        "description": "Kitty and Daisy are supporting themselves and their inebriated father by singing and dancing in a music-hall. The fact that they have been able to keep themselves innocent in spite of all temptation, as well as their beautiful appearance and winning ways, has drawn Baron d'Alroys' attention to them. He is paying special attention to Kitty, and as she is unable to conceal the passionate love she is bearing towards the Baron, it is not surprising that the Baron, one evening as he is fetching the two sisters from the music-hall in his motor-car, asks Kitty to marry him. Neither the sad circumstances in Kitty's home nor the obstacles which his family and friends of rank try to throw into his way, in order to make him give up this marriage, can induce him to desist from his purpose. He keeps his word and marries Kitty. Two years later we find a happy home; a sweet little girl seems to be an inviolable tie between man and wife in this unequal marriage. The idyll is interrupted by a servant, who is bringing instructions for the Baron to go to the colonial forces in Africa. With anxious forebodings for the future, man and wife part, he to face a precarious destiny, and she to spend many a sad and lonely day with her haughty mother-in-law. We see the Baron again at the head of the van, marching into the enemy's country. With a few of his men he falls in an ambush and is severely hurt. Another officer succeeds in getting away unhurt, but as he has seen the Baron falling without rising again, he supposes him to be dead and takes the sad message to his unhappy wife, as he a little later on is going home on leave of absence. The blow is terrible to the young wife; she has not only lost her husband, as far as she knows, but the mother-in-law now turns her away from the home. Kitty has now to endure much evil from her drunken father and her now so flighty sister. Her little girl is her only comfort. One fine day the old Baroness comes to visit her. She wants to take the child away from her. During the conflict which is now taking place between the two women. Baron d'Alroys himself, all alive, makes his appearance. Now matters are changed about. Kitty gets reparation for her misfortune and the wicked mother-in-law is unmercifully turned out. The Baron embraces his two beloved ones, as if he would never part from them again.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Muriel Franecki"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Lamont Kub"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Janice Thiel"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Bailee Dickens"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Adrien Braun"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Jazmyne Corwin"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 43,
+        "title": "A Rose of the Tenderloin",
+        "description": "A woman is living outside the social pale, trying to keep her child from being taken away from her by its rich and highly respectable aunt and uncle. A notorious gambler, \"Tenderloin Harry,\" has taken a great fancy to little Rose, whom he takes once a week for a day's outing; and it is while Rose is in his care that the sad news comes of her mother's tragic end. \"Tenderloin Harry\" resolves that he will take care of Rose, will have her educated and will make a lady out of her. A room in his house is at once turned into a nursery, a governess is employed and Rose's education begins. Everything possible is done by him for the waif's comfort and happiness, and it makes a pleasing picture to see this man of the world and his boon companion under the spell of a little child. But their enjoyment is short lived. In a few days the aunt and uncle appear to claim Rose, bringing with them a letter left by the mother, which reads: \"To you who have Rose in your care to-day, do what is best for her future, and God will bless you. Helen.\" At first Harry will not, cannot give up the child who has so completely crept into his affections. He stubbornly refuses to part with her until they point out to him that phrase in the mother's letter, \"do what is best for her future;\" then the gambler shows his innate nobility of character, as with a breaking heart he resigns her to the care of her relations and deprives himself of the one ray of comfort that had brightened his desolate life. The parting of the child of the Tenderloin and the notorious gamester is beautiful and touching because of its simplicity and pathos.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Jadon Grimes"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Ambrose Mann"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Reilly Beier"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Nya Hand"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Danielle Hettinger"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Maci Douglas"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 44,
+        "title": "The Flower Girl of Paris",
+        "description": "In a thieves' den in a low quarter of Paris, Jean Bambard, a desperado, and Pigord, one of his gang, are apparently quarreling. They take frequent pulls from a brandy bottle on the table between them. The door opens and Mimi, a very pretty girl, thin and pale, enters, carrying a basket of flowers on her arm. She comes timidly forward. Bambard rises to his feet, staggers toward her in a half-drunken manner, points to her full basket of flowers, roughly pushes her and orders her out again. She sinks exhausted on a chair and pleads for a rest, but Bambard strikes her and forces her out the door. The two thieves resume their conversation, and after a while gather some burglar tools, leaving mother Martin, another member of the gang, in charge and depart. The flower girl wanders along to a fashionable part of the city, meeting with but little success in disposing of her flowers. An automobile dashes up, and Rene Masson, a handsome young man, alights. Mimi offers him a bunch of flowers. He looks at her face, takes them and gives in return several bank notes. At this moment the girl is seized with a sudden faintness, staggers and would have fallen had not the young man caught her. He places her in his auto and starts for home. Bambard and Pigord, who have been watching from across the street, start off in the same direction. The young man reaches his apartments, carries in the unconscious girl and places her on a couch. Forcing some wine between her lips, the girl soon revives and opens her eyes in wonderment. She is given food and drink, recovers from her faintness and asks to go. Her protector accompanies her and they have scarcely left the room when Bambard and Pigord enter, ransack the place, carrying away bank notes, jewels, plate, etc. They proceed to their den, tell of their escapade, also of the fainting of Mimi. A plan is conceived to lure the young man to the den and a note dispatched offering to return the plunder for a cash ransom, and signed the flower girl. Rene receives the decoy letter, takes a roll of bank notes, his revolver and departs. Mimi returns to the rendezvous, learns of the robbery and also of the plan to trap the young millionaire and determines to save him. She eludes mother Martin, jumps from the window and hurries to the police inspector, and, with several officers, starts for the gang's headquarters. Meanwhile the young millionaire proceeds to the address given, and as he crosses the threshold, the thieves spring upon him, overpower and bind him. Bambard, after securing the young man's money, points his revolver at Rene's head. As he fires, the door flies open and Mimi jumps in front of Rene and receives the bullet instead of him. The officers follow and after a short struggle the gang is overpowered and taken away. Rene's bonds are removed. He rushes over to the flower girl, raises her in his arms, she looks up with a smile, presses his hand and falls back dead. Rene gazes for a moment, bends down and kisses her forehead reverently.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Kaley Luettgen"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Camilla Kiehn"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Anthony Wolf"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Dominique Swift"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Jamil Simonis"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Blake Lang"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Hadley Reilly"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Maci Veum"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Arlo Langosh"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 45,
+        "title": "Rip's Twenty Years' Sleep",
+        "description": "A series of short black and white films from director William K.L. Dickson which chronicle the adventures of Rip Van Winkle.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Keira Kihn"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Madge Hansen"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Donald Kilback"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Brennan Johnson"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Lou Koepp"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Tobin Rath"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Ole Carter"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 46,
+        "title": "After Many Years",
+        "description": "John Davis, first mate of the brig \"Gifford,\" is seen bidding his wife and infant child a tearful adieu on the eve of the sailing of his ship. Caught in a terrible storm in the Pacific Ocean, the vessel is wrecked and all on board are supposed to have been drowned, at least so the newspapers chronicled. What a blow this was to the young wife, waiting for her dear one's return. Although the evidence was apparently conclusive, still she could not reconcile herself to the fact that her husband had gone from her forever; something in her heart tells that he still lives, and in truth, for we see the poor shipwrecked mariner cast up by the seething sea on to a desert island in the Western Ocean. Here he spent seven long, weary years, worse off that De Foe's famous hero, \"Robinson Crusoe,\" for he at least enjoyed the companionship of \"Friday,\" but Davis was all alone. Now and then a distant sail, like a tantalizing phantom, would come into view and fade away again from sight, being too far off to see his signals of distress. His only solace was the picture in a locket of her who was waiting, waiting, ever hopeful of his return; praying as, indeed, was he also, their prayers ascending at the same time to the Father Almighty, through whose Grace and Mercy they were both imbued with hope, for although she finds her lot arduous, the care of a child being an exacting responsibility, she has repeatedly rejected the suit of Tom Foster, a good fellow, who would care for her and her little one. But no, that intuition tells her John will return, although it seems at times she hopes in vain. However, John's prayers are at last answered, and a boat is sent from a passing ship to his rescue. Returning home unannounced, the sight that greets him freezes his blood, for there he sees his wife and Foster walking through the garden accompanied by the child. He at once concludes that he has been forgotten and his place taken by his friend. His soul is at first filled with revenge and he is about to strike Foster down, but no, she is happy. She thinks him dead, and why not let it be so? This would be the most kindly, so he slinks hack into the foliage, intending to go away forever. They pass into the house, leaving the little one playing on the lawn. He cannot resist folding the child his child to his heart. From her he learns the truth as the mother returns from the house, and two faithful souls are \"once more united never to part.\"",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Jean Kub"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Kailey Powlowski"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Lacey VonRueden"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Rachelle Kertzmann"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Aubrey Roob"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Maximus Becker"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Mattie O'Connell"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 47,
+        "title": "Ingomar, the Barbarian",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            },
+            {
+                "id": 3,
+                "name": "Romance"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Alaina Jacobson"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Lelah Wisoky"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Kayley Russel"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 48,
+        "title": "The Awakening",
+        "description": "A confirmed bachelor learns that he will inherit his late uncle's fortune only if he marries, which he does reluctantly. Shortly afterward he returns to his bachelor lifestyle but realizes he can't get his wife's face out of his thoughts.",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Comedy"
+            },
+            {
+                "id": 3,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Earnestine Stroman"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Jeanie Ferry"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "April Haag"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Abagail Langworth"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Nannie Lakin"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Marion O'Reilly"
+            },
+            {
+                "id": 7,
+                "role": "Actor",
+                "name": "Melyssa Morissette"
+            },
+            {
+                "id": 8,
+                "role": "Actor",
+                "name": "Kenyatta Von"
+            },
+            {
+                "id": 9,
+                "role": "Actor",
+                "name": "Myrtis Stark"
+            },
+            {
+                "id": 10,
+                "role": "Actor",
+                "name": "Ariel Volkman"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 49,
+        "title": "Grevinde X",
+        "description": "The Countess X. receives during a party a young man, who brings her a message from a friend, whom she believed to be in exile, asking her to come and see him the same evening in order to arrange with him how they can revenge themselves on their mutual enemy, the prince. The conversations is heard by a young diplomat, Baron Lerche, who has been concealed behind a curtain. He hurries away from the company and soon after returns in a different dress. He watches the countess, follows her in the night to a remote house, makes his way in, and overhears a plan to kill the prince. Soon after the prince gives a masked ball. The Countess, in Spanish costume, and the baron, in red domino, are among the guests. As the countess sees that the red domino keeps watching her, she boldly addresses him, takes his arm and leads him towards a group of guests, who are her friends and accomplices. There she writes, with the hands at her back, on her ball-card: \"Get the red domino out of the way.\" The card is at once picked up, read and understood, and the next moment a lady takes, with irresistible amiability, the baron's arm and leads him to a remote smoking room. The baron is very much afraid to leave the dangerous countess out of sight, and is about to leave the room again, but two masked gentlemen throw him to the ground, gag and tie him and leave him alone. The baron, however, does not want to give up the exciting play. Straining every nerve, he succeeds in rolling himself on to a cigar-lighter, by aid of which be destroys his bonds. When he is free, he jumps out of the window and down in the garden summons two policemen, whom he had told to keep near the place, and then be goes back to the ballroom. In the meantime, the countess succeeds in getting the prince away from the party. He is very much captivated with her, and takes her to a cabinet, where he can speak to her alone. They get a bottle of champagne, and now the prince cannot keep back his feelings any longer, but falls down on his knees, declaring to her his love. The countess watches the opportunity; she smiles encouragingly, puts her left arm around his neck, and with the right hand she throws a poisonous powder in his glass. But at this very moment her arm is seized by the baron, who comes out from behind the curtain. The countess jumps to her feet, but when she sees that everything is out she falls back in a swoon. In a few words the baron explains what has happened. He calls the servants, who carry the countess out, and then he enters the ballroom again. With revolver in hand he makes the guests take off their masks, and now he points out the conspirators one by one. The policemen take them away, and the guests gather round the prince and baron with eager questions, but the prince answers smilingly: \"My dear guests, don't let this little incident disturb our pleasure; it was only an attempt on my life.\"",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Short"
+            },
+            {
+                "id": 2,
+                "name": "Drama"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Edna Bins"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Elsie Lang"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Leslie Stokes"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Josefina Heathcote"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "id": 50,
+        "title": "Washington Under the American Flag",
+        "description": "Passing over the intervening years between Washington's marriage in 1759 we come to the meeting of a General Congress, at Philadelphia, where the foundations were laid for our mighty nation. Congress assembled in Carpenter's Hall, where Patrick Henry made his famous speech, the keynote of American independence. The spirit of revolt against English oppression was growing in America, while in England the belief was that the appearance of an English army would surely subdue the Colonists. Washington offered to accept the command of an army should occasion require it. Further and more stringent measures were adopted in Parliament and preparations for hostilities began at once. Military stores at Concord were destroyed, the battle of Lexington soon followed and by this time thoroughly aroused countrymen from all quarters hastened to Boston, the center of operations. This time Congress was in session at Philadelphia and Washington was there unanimously chosen General Commander of the Continental army. He set out at once from Philadelphia, arriving at Cambridge July 3, 1775, where he assumed command of the army. The battle of Bunker Hill meanwhile had been fought and thus proved to the British that their foe was more formidable than anticipated, their loss amounting to four times as many as that of the Colonists. Upon assuming command, Washington hastened to improve the weak points of the Colonies and as the terms of enlistment of his soldiers expired, Washington found his forces greatly depleted. The British, hoping quickly to subdue the Colonists, secured the Hessians to assist. They landed in the southern part of the country, whereupon Washington evacuated Boston and, engaging the enemy at various points on the march, crossed the Delaware in a blinding snowstorm, surprised the Hessians, under Rahl, and put them to rout. The whole Colonial force at this time was approximately five thousand men and, under promises of increased pay and bounties, these were kept together and new recruits added. Omitting the incidents during the intervening time, we find Washington at Valley Forge where he applied himself to forming new plans and cisterns for the army. In a short time the raw recruits were developed into efficient soldiers, the stress of war was shifted to the south, Cornwallis brought his forces from North Carolina into Virginia. Washington concentrated his forces and, aided by the French ships in the mouth of the York River, succeeded in penning up Cornwallis and plans were laid for dealing a decisive blow. The memorable siege of Yorktown was begun and finally ended by the surrender of the British General. After eight years of war a treaty of peace was signed at Paris and the United States became free and independent, the army was discharged, Washington delivered his commission to Congress and retired to private life. Still he watched with solicitude the formation of a government and as a unanimous sentiment pronounced him the people's choice, he reluctantly accepted the office of President. The oath was administered by the Chancellor of the State of New York. Washington at once set about to properly organize the new government, the success of which is a matter of history. Upon the expiration of his second term. Washington retired to domestic life at Mount Vernon. The closing scene pictures Washington at Mount Vernon directing servants in the fields and with his wife holding an informal reception. \"The fame of Washington stands apart from every other in history. His name by all revered forms a universal tie of brotherhood.\"",
+        "genres": [
+            {
+                "id": 1,
+                "name": "Drama"
+            },
+            {
+                "id": 2,
+                "name": "Short"
+            }
+        ],
+        "cast": [
+            {
+                "id": 1,
+                "role": "Actor",
+                "name": "Flavie Gutmann"
+            },
+            {
+                "id": 2,
+                "role": "Actor",
+                "name": "Deshaun Klein"
+            },
+            {
+                "id": 3,
+                "role": "Actor",
+                "name": "Karolann Hessel"
+            },
+            {
+                "id": 4,
+                "role": "Actor",
+                "name": "Mabelle Mraz"
+            },
+            {
+                "id": 5,
+                "role": "Actor",
+                "name": "Leif Schoen"
+            },
+            {
+                "id": 6,
+                "role": "Actor",
+                "name": "Antonia Bradtke"
+            }
+        ],
+        "videoSource": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    }
+]
